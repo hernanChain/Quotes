@@ -1,0 +1,23 @@
+{
+    "name": "quotesproyect",
+    "version": "1.0.0",
+    "description": "This project is about quotes of famous people",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [
+        "nodejs",
+        "quotes",
+        "javascript"
+    ],
+    "author": "hernanChain",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
